@@ -1,0 +1,117 @@
+,ID,NAME,FULLNAME,X,Y,Z,VOXEKS,ABBR,LOC
+1,1,Precentral_L,Precentral gyrus (Left),-38.65 ,-5.68 ,50.94 ,1028,PreCG.L,Frontal
+1,2,Precentral_R,Precentral gyrus (Right),41.37 ,-8.21 ,52.09 ,1002,PreCG.R,Frontal
+1,3,Frontal_Sup_L,"Superior frontal gyrus, dorsolateral (Left)",-18.45 ,34.81 ,42.20 ,1076,SFGdor.L,Frontal
+1,4,Frontal_Sup_R,"Superior frontal gyrus, dorsolateral (Right)",21.90 ,31.12 ,43.82 ,1159,SFGdor.R,Frontal
+1,5,Frontal_Sup_Orb_L,"Superior frontal gyrus, orbital part (Left)",-16.56 ,47.32 ,-13.31 ,292,ORBsup.L,Frontal
+1,6,Frontal_Sup_Orb_R,"Superior frontal gyrus, orbital part (Right)",18.49 ,48.10 ,-14.02 ,311,ORBsup.R,Frontal
+1,7,Frontal_Mid_L,Middle frontal gyrus (Left),-33.43 ,32.73 ,35.46 ,1448,MFG.L,Frontal
+1,8,Frontal_Mid_R,Middle frontal gyrus (Right),37.59 ,33.06 ,34.04 ,1510,MFG.R,Frontal
+1,9,Frontal_Mid_Orb_L,Middle frontal gyrus orbital part (Left),-30.65 ,50.43 ,-9.62 ,270,ORBmid.L,Frontal
+1,10,Frontal_Mid_Orb_R,Middle frontal gyrus orbital part (Right),33.18 ,52.59 ,-10.73 ,294,ORBmid.R,Frontal
+1,11,Frontal_Inf_Oper_L,"Inferior frontal gyrus, opercular part (Left)",-48.43 ,12.73 ,19.02 ,326,IFGoperc.L,Frontal
+1,12,Frontal_Inf_Oper_R,"Inferior frontal gyrus, opercular part (Right)",50.20 ,14.98 ,21.41 ,421,IFGoperc.R,Frontal
+1,13,Frontal_Inf_Tri_L,"Inferior frontal gyrus, triangular part (Left)",-45.58 ,29.91 ,13.99 ,726,IFGtriang.L,Frontal
+1,14,Frontal_Inf_Tri_R,"Inferior frontal gyrus, triangular part (Right)",50.33 ,30.16 ,14.17 ,629,IFGtriang.R,Frontal
+1,15,Frontal_Inf_Orb_L,"Inferior frontal gyrus, orbital part (Left)",-35.98 ,30.71 ,-12.11 ,503,ORBinf.L,Frontal
+1,16,Frontal_Inf_Orb_R,"Inferior frontal gyrus, orbital part (Right)",41.22 ,32.23 ,-11.91 ,505,ORBinf.R,Frontal
+1,17,Rolandic_Oper_L,Rolandic operculum (Left),-47.16 ,-8.48 ,13.95 ,302,ROL.L,Frontal
+1,18,Rolandic_Oper_R,Rolandic operculum (Right),52.65 ,-6.25 ,14.63 ,399,ROL.R,Frontal
+1,19,Supp_Motor_Area_L,Supplementary motor area (Left),-5.32 ,4.85 ,61.38 ,656,SMA.L,Frontal
+1,20,Supp_Motor_Area_R,Supplementary motor area (Right),8.62 ,0.17 ,61.85 ,666,SMA.R,Frontal
+1,21,Olfactory_L,Olfactory cortex (Left),-8.06 ,15.05 ,-11.46 ,87,OLF.L,Frontal
+1,22,Olfactory_R,Olfactory cortex (Right),10.43 ,15.91 ,-11.26 ,81,OLF.R,Frontal
+1,23,Frontal_Sup_Medial_L,"Superior frontal gyrus, medial (Left)",-4.80 ,49.17 ,30.89 ,846,SFGmed.L,Frontal
+1,24,Frontal_Sup_Medial_R,"Superior frontal gyrus, medial (Right)",9.10 ,50.84 ,30.22 ,641,SFGmed.R,Frontal
+1,25,Frontal_Med_Orb_L,"Superior frontal gyrus, medial orbital (Left)",-5.17 ,54.06 ,-7.40 ,225,ORBsupmed.L,Frontal
+1,26,Frontal_Med_Orb_R,"Superior frontal gyrus, medial orbital (Right)",8.16 ,51.67 ,-7.13 ,262,ORBsupmed.R,Frontal
+1,27,Rectus_L,Gyrus rectus (Left),-5.08 ,37.07 ,-18.14 ,261,REC.L,Frontal
+1,28,Rectus_R,Gyrus rectus (Right),8.35 ,35.64 ,-18.04 ,218,REC.R,Frontal
+1,29,Insula_L,Insula (Left),-35.13 ,6.65 ,3.44 ,566,INS.L,Cingulate_Insula
+1,30,Insula_R,Insula (Right),39.02 ,6.25 ,2.08 ,539,INS.R,Cingulate_Insula
+1,31,Cingulum_Ant_L,Anterior cingulate and paracingulate gyri (Left),-4.04 ,35.40 ,13.95 ,426,ACG.L,Cingulate_Insula
+1,32,Cingulum_Ant_R,Anterior cingulate and paracingulate gyri (Right),8.46 ,37.01 ,15.84 ,397,ACG.R,Cingulate_Insula
+1,33,Cingulum_Mid_L,Median cingulate and paracingulate gyri (Left),-5.48 ,-14.92 ,41.57 ,619,DCG.L,Cingulate_Insula
+1,34,Cingulum_Mid_R,Median cingulate and paracingulate gyri (Right),8.02 ,-8.83 ,39.79 ,605,DCG.R,Cingulate_Insula
+1,35,Cingulum_Post_L,Posterior cingulate gyrus (Left),-4.85 ,-42.92 ,24.67 ,137,PCG.L,Cingulate_Insula
+1,36,Cingulum_Post_R,Posterior cingulate gyrus (Right),7.44 ,-41.81 ,21.87 ,87,PCG.R,Cingulate_Insula
+1,37,Hippocampus_L,Hippocampus (Left),-25.03 ,-20.74 ,-10.13 ,273,HIP.L,Temporal
+1,38,Hippocampus_R,Hippocampus (Right),29.23 ,-19.78 ,-10.33 ,288,HIP.R,Temporal
+1,39,ParaHippocampal_L,Parahippocampal gyrus (Left),-21.17 ,-15.95 ,-20.70 ,286,PHG.L,Temporal
+1,40,ParaHippocampal_R,Parahippocampal gyrus (Right),25.38 ,-15.15 ,-20.47 ,316,PHG.R,Temporal
+1,41,Amygdala_L,Amygdala (Left),-23.27 ,-0.67 ,-17.14 ,62,AMYG.L,Temporal
+1,42,Amygdala_R,Amygdala (Right),27.32 ,0.64 ,-17.50 ,70,AMYG.R,Temporal
+1,43,Calcarine_L,Calcarine fissure and surrounding cortex (Left),-7.14 ,-78.67 ,6.44 ,648,CAL.L,Occipital
+1,44,Calcarine_R,Calcarine fissure and surrounding cortex (Right),15.99 ,-73.15 ,9.40 ,542,CAL.R,Occipital
+1,45,Cuneus_L,Cuneus (Left),-5.93 ,-80.13 ,27.22 ,449,CUN.L,Occipital
+1,46,Cuneus_R,Cuneus (Right),13.51 ,-79.36 ,28.23 ,434,CUN.R,Occipital
+1,47,Lingual_L,Lingual gyrus (Left),-14.62 ,-67.56 ,-4.63 ,660,LING.L,Occipital
+1,48,Lingual_R,Lingual gyrus (Right),16.29 ,-66.93 ,-3.87 ,678,LING.R,Occipital
+1,49,Occipital_Sup_L,Superior occipital gyrus (Left),-16.54 ,-84.26 ,28.17 ,396,SOG.L,Occipital
+1,50,Occipital_Sup_R,Superior occipital gyrus (Right),24.29 ,-80.85 ,30.59 ,428,SOG.R,Occipital
+1,51,Occipital_Mid_L,Middle occipital gyrus (Left),-32.39 ,-80.73 ,16.11 ,959,MOG.L,Occipital
+1,52,Occipital_Mid_R,Middle occipital gyrus (Right),37.39 ,-79.70 ,19.42 ,595,MOG.R,Occipital
+1,53,Occipital_Inf_L,Inferior occipital gyrus (Left),-36.36 ,-78.29 ,-7.84 ,268,IOG.L,Occipital
+1,54,Occipital_Inf_R,Inferior occipital gyrus (Right),38.16 ,-81.99 ,-7.61 ,314,IOG.R,Occipital
+1,55,Fusiform_L,Fusiform gyrus (Left),-31.16 ,-40.30 ,-20.23 ,687,FFG.L,Temporal
+1,56,Fusiform_R,Fusiform gyrus (Right),33.97 ,-39.10 ,-20.18 ,760,FFG.R,Temporal
+1,57,Postcentral_L,Postcentral gyrus (Left),-42.46 ,-22.63 ,48.92 ,1159,PoCG.L,Parietal
+1,58,Postcentral_R,Postcentral gyrus (Right),41.43 ,-25.49 ,52.55 ,1138,PoCG.R,Parietal
+1,59,Parietal_Sup_L,Superior parietal gyrus (Left),-23.45 ,-59.56 ,58.96 ,631,SPG.L,Parietal
+1,60,Parietal_Sup_R,Superior parietal gyrus (Right),26.11 ,-59.18 ,62.06 ,647,SPG.R,Parietal
+1,61,Parietal_Inf_L,"Inferior parietal, but supramarginal and angular gyri (Left)",-42.80 ,-45.82 ,46.74 ,696,IPL.L,Parietal
+1,62,Parietal_Inf_R,"Inferior parietal, but supramarginal and angular gyri (Right)",46.46 ,-46.29 ,49.54 ,419,IPL.R,Parietal
+1,63,SupraMarginal_L,Supramarginal gyrus (Left),-55.79 ,-33.64 ,30.45 ,354,SMG.L,Parietal
+1,64,SupraMarginal_R,Supramarginal gyrus (Right),57.61 ,-31.50 ,34.48 ,550,SMG.R,Parietal
+1,65,Angular_L,Angular gyrus (Left),-44.14 ,-60.82 ,35.59 ,342,ANG.L,Parietal
+1,66,Angular_R,Angular gyrus (Right),45.51 ,-59.98 ,38.63 ,496,ANG.R,Parietal
+1,67,Precuneus_L,Precuneus (Left),-7.24 ,-56.07 ,48.01 ,1079,PCUN.L,Parietal
+1,68,Precuneus_R,Precuneus (Right),9.98 ,-56.05 ,43.77 ,935,PCUN.R,Parietal
+1,69,Paracentral_Lobule_L,Paracentral lobule (Left),-7.63 ,-25.36 ,70.07 ,422,PCL.L,Frontal
+1,70,Paracentral_Lobule_R,Paracentral lobule (Right),7.48 ,-31.59 ,68.09 ,227,PCL.R,Frontal
+1,71,Caudate_L,Caudate nucleus (Left),-11.46 ,11.00 ,9.24 ,278,CAU.L,Subcortical
+1,72,Caudate_R,Caudate nucleus (Right),14.84 ,12.07 ,9.42 ,284,CAU.R,Subcortical
+1,73,Putamen_L,"Lenticular nucleus, putamen (Left)",-23.91 ,3.86 ,2.40 ,306,PUT.L,Subcortical
+1,74,Putamen_R,"Lenticular nucleus, putamen (Right)",27.78 ,4.91 ,2.46 ,322,PUT.R,Subcortical
+1,75,Pallidum_L,"Lenticular nucleus, pallidum (Left)",-17.75 ,-0.03 ,0.21 ,81,PAL.L,Subcortical
+1,76,Pallidum_R,"Lenticular nucleus, pallidum (Right)",21.20 ,0.18 ,0.23 ,76,PAL.R,Subcortical
+1,77,Thalamus_L,Thalamus (Left),-10.85 ,-17.56 ,7.98 ,313,THA.L,Subcortical
+1,78,Thalamus_R,Thalamus (Right),13.00 ,-17.55 ,8.09 ,307,THA.R,Subcortical
+1,79,Heschl_L,Heschl gyrus (Left),-41.99 ,-18.88 ,9.98 ,72,HES.L,Temporal
+1,80,Heschl_R,Heschl gyrus (Right),45.86 ,-17.15 ,10.41 ,73,HES.R,Temporal
+1,81,Temporal_Sup_L,Superior temporal gyrus (Left),-53.16 ,-20.68 ,7.13 ,672,STG.L,Temporal
+1,82,Temporal_Sup_R,Superior temporal gyrus (Right),58.15 ,-21.78 ,6.80 ,963,STG.R,Temporal
+1,83,Temporal_Pole_Sup_L,Temporal pole: superior temporal gyrus (Left),-39.88 ,15.14 ,-20.18 ,382,TPOsup.L,Temporal
+1,84,Temporal_Pole_Sup_R,Temporal pole: superior temporal gyrus (Right),48.25 ,14.75 ,-16.86 ,400,TPOsup.R,Temporal
+1,85,Temporal_Mid_L,Middle temporal gyrus (Left),-55.52 ,-33.80 ,-2.20 ,1439,MTG.L,Temporal
+1,86,Temporal_Mid_R,Middle temporal gyrus (Right),57.47 ,-37.23 ,-1.47 ,1356,MTG.R,Temporal
+1,87,Temporal_Pole_Mid_L,Temporal pole: middle temporal gyrus (Left),-36.32 ,14.59 ,-34.08 ,222,TPOmid.L,Temporal
+1,88,Temporal_Pole_Mid_R,Temporal pole: middle temporal gyrus (Right),44.22 ,14.55 ,-32.23 ,349,TPOmid.R,Temporal
+1,89,Temporal_Inf_L,Inferior temporal gyrus (Left),-49.77 ,-28.05 ,-23.17 ,941,ITG.L,Temporal
+1,90,Temporal_Inf_R,Inferior temporal gyrus (Right),53.69 ,-31.07 ,-22.32 ,1072,ITG.R,Temporal
+0,91,Cerebelum_Crus1_L,Cerebelum_Crus1_L,-36,-67,-29,,,
+0,92,Cerebelum_Crus1_R,Cerebelum_Crus1_R,37,-67,-30,,,
+0,93,Cerebelum_Crus2_L,Cerebelum_Crus2_L,-29,-73,-38,,,
+0,94,Cerebelum_Crus2_R,Cerebelum_Crus2_R,32,-69,-40,,,
+0,95,Cerebelum_3_L,Cerebelum_3_L,-9,-37,-19,,,
+0,96,Cerebelum_3_R,Cerebelum_3_R,12,-34,-19,,,
+0,97,Cerebelum_4_5_L,Cerebelum_4_5_L,-15,-43,-17,,,
+0,98,Cerebelum_4_5_R,Cerebelum_4_5_R,17,-43,-18,,,
+0,99,Cerebelum_6_L,Cerebelum_6_L,-23,-59,-22,,,
+0,100,Cerebelum_6_R,Cerebelum_6_R,25,-58,-24,,,
+0,101,Cerebelum_7b_L,Cerebelum_7b_L,-33,-60,-43,,,
+0,102,Cerebelum_7b_R,Cerebelum_7b_R,35,-64,-47,,,
+0,103,Cerebelum_8_L,Cerebelum_8_L,-26,-55,-48,,,
+0,104,Cerebelum_8_R,Cerebelum_8_R,25,-56,-49,,,
+0,105,Cerebelum_9_L,Cerebelum_9_L,-11,-49,-46,,,
+0,106,Cerebelum_9_R,Cerebelum_9_R,9,-49,-46,,,
+0,107,Cerebelum_10_L,Cerebelum_10_L,-23,-34,-42,,,
+0,108,Cerebelum_10_R,Cerebelum_10_R,26,-34,-41,,,
+0,109,Vermis_1_2,Vermis_1_2,1,-39,-20,,,
+0,110,Vermis_3,Vermis_3,1,-40,-11,,,
+0,111,Vermis_4_5,Vermis_4_5,1,-52,-6,,,
+0,112,Vermis_6,Vermis_6,1,-67,-15,,,
+0,113,Vermis_7,Vermis_7,1,-72,-25,,,
+0,114,Vermis_8,Vermis_8,1,-64,-34,,,
+0,115,Vermis_9,Vermis_9,1,-55,-35,,,
+0,116,Vermis_10,Vermis_10,0,-46,-32,,,
